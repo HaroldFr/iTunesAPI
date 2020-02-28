@@ -1,0 +1,15 @@
+.parallax-container {
+	height: 90vh;
+}
+
+footer {
+	margin-top: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+.parallax_img {
+	width: 100%;
+} 
